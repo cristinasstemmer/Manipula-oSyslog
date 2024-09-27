@@ -13,7 +13,7 @@ Este projeto em C processa eventos de rede a partir do arquivo de log do sistema
 ## Como Compilar
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/processador-eventos-rede.git
+   git clone https://github.com/cristinasstemmer/ProcessadorSyslog.git
    
 2. Compile o código:
    gcc -o processador main.c
